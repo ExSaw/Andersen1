@@ -1,7 +1,7 @@
 # Andersen1
 First Andersen HomeWork
 
-My FootSteps:
+My Steps:
 
 git init
 
