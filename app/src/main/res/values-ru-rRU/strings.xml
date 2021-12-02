@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Andersen1</string>
     <string name="textOne">Привет Мир!</string>
+    <string name="textTwo">Введите своё имя</string>
 </resources>

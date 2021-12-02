@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Andersen1</string>
     <string name="textOne">Hello World!</string>
+    <string name="textTwo">Enter Your Name</string>
 </resources>
