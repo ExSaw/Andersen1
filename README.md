@@ -42,6 +42,7 @@ git push -u origin Dev
 git status
 
 //simulating hotfix
+
 git checkout -b hotfix
 
 git status
@@ -59,6 +60,7 @@ git merge hotfix
 git branch -d hotfix
 
 //git push origin --delete hotfix
+
 git add *
 
 git status
@@ -66,6 +68,7 @@ git status
 git push -u origin main
 
 //Dev is depricated now! Solving this problem...
+
 git checkout dev
 
 git merge main //dev is now up to date
